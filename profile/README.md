@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://poupetempo.net/assets/img/logo/logo.png" alt="Poupe Tempo" width="140"/>
+<img src="https://poupetempo.net/logo-192.webp" alt="Poupe Tempo" width="140"/>
 
 # Poupe Tempo
 
